@@ -1,5 +1,4 @@
-# Django REST CRUD
-
+# Nest CRUD
 ## Description
 
 CRUD system developed with Nest/Typescript.
